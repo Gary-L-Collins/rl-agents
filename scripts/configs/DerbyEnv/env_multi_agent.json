@@ -1,0 +1,5 @@
+{
+    "id": "demolition_derby-multi-agent-v0",
+    "import_module": "highway_env",
+    "derby_radius": 50
+}
